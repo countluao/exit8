@@ -1,1 +1,1 @@
-this is a maze game, run this in VScode, use this link(it might not be availeble):https://zany-broccoli-4jr9jxg476vg3j9jv.github.dev/, then, run it with ./Exit8
+this is a maze game, run this in VScode, use this link(it might not be availeble):https://zany-broccoli-4jr9jxg476vg3j9jv.github.dev/, then, enter "gcc Exit8.c -o Exit8" in the terminal, then enter, then run it with "./Exit8"
